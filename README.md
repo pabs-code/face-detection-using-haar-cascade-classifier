@@ -113,6 +113,13 @@ Here's what the app does:
 3. Bounding boxes are drawn around detected faces.
 4. The processed image is displayed in the browser.
 
+
+
+https://github.com/user-attachments/assets/e4c9f9fe-e6b7-499f-8222-cd2e85fdda1d
+
+
+
+
 ---
 
 ## Acknowledgments
