@@ -4,10 +4,8 @@ This is a Streamlit-based face detection application that uses the **Haar Cascad
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [Face Detection App with Haar Cascade Classifier](#face-detection-app-with-haar-cascade-classifier)
-  - [Table of Contents](#-table-of-contents)
   - [About the Project](#-about-the-project)
     - [What is the Haar Cascade Classifier?](#-what-is-the-haar-cascade-classifier)
       - [How It Works:](#-how-it-works)
